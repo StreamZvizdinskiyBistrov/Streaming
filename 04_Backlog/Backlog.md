@@ -12,6 +12,8 @@
 - [ ] Escape the Backrooms
 - [ ] Gamble With Your Friends
 - [ ] Subnautica 2
+- [ ] Burglin' Gnomes
+- [ ] MECCHA CHAMELEON
 
 
 ## Техничка
