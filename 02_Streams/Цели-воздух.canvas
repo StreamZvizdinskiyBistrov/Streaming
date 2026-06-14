@@ -2,16 +2,19 @@
 	"nodes":[
 		{"id":"638227d47b5c8070","x":-160,"y":-240,"width":260,"height":80,"type":"text","text":"Прийти к 20 онлайна"},
 		{"id":"87f1404cc50fee52","x":-500,"y":40,"width":250,"height":60,"type":"text","text":"Настроить обс"},
-		{"id":"624c8cb11f26beb0","x":-150,"y":40,"width":250,"height":60,"type":"text","text":"Проанализировать рынок"},
 		{"id":"c3dae82d8527adf8","x":180,"y":40,"width":250,"height":60,"type":"text","text":"Поддерживать постоянство до конца лета"},
-		{"id":"249bdaec7c330753","x":-25,"y":260,"width":250,"height":60,"type":"text","text":"Вести тик ток"},
-		{"id":"dc33d29783bda1e0","x":280,"y":260,"width":250,"height":60,"type":"text","text":"Вести ютуб(нарезки)"},
-		{"id":"5fec2f08c6ac2467","x":600,"y":260,"width":250,"height":60,"type":"text","text":"Вести стримы"}
+		{"id":"dc33d29783bda1e0","x":280,"y":260,"width":200,"height":60,"type":"text","text":"Вести ютуб(нарезки)"},
+		{"id":"5fec2f08c6ac2467","x":600,"y":260,"width":140,"height":60,"type":"text","text":"Вести стримы"},
+		{"id":"624c8cb11f26beb0","x":-155,"y":40,"width":250,"height":60,"type":"text","text":"Проанализировать рынок"},
+		{"id":"249bdaec7c330753","x":95,"y":260,"width":145,"height":60,"type":"text","text":"Вести тик ток"},
+		{"id":"b155acb6efb54ce7","x":-240,"y":260,"width":250,"height":60,"type":"text","text":"Вычислить идеальный тай"}
 	],
 	"edges":[
 		{"id":"c937f93a61772365","fromNode":"638227d47b5c8070","fromSide":"bottom","toNode":"87f1404cc50fee52","toSide":"top"},
 		{"id":"e426cd093d31643f","fromNode":"c3dae82d8527adf8","fromSide":"bottom","toNode":"249bdaec7c330753","toSide":"top"},
 		{"id":"c0ff933fbdfeefcc","fromNode":"c3dae82d8527adf8","fromSide":"bottom","toNode":"dc33d29783bda1e0","toSide":"top"},
-		{"id":"736a348ccd0d0e48","fromNode":"c3dae82d8527adf8","fromSide":"bottom","toNode":"5fec2f08c6ac2467","toSide":"top"}
+		{"id":"736a348ccd0d0e48","fromNode":"c3dae82d8527adf8","fromSide":"bottom","toNode":"5fec2f08c6ac2467","toSide":"top"},
+		{"id":"48d93f2dab5dd22b","fromNode":"638227d47b5c8070","fromSide":"bottom","toNode":"624c8cb11f26beb0","toSide":"top"},
+		{"id":"fac286ea32dd13c1","fromNode":"638227d47b5c8070","fromSide":"bottom","toNode":"c3dae82d8527adf8","toSide":"top"}
 	]
 }
