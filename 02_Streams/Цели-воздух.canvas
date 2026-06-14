@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"638227d47b5c8070","x":-160,"y":-240,"width":260,"height":80,"type":"text","text":"Прийти к 20 онлайна"},
+		{"id":"87f1404cc50fee52","x":-410,"y":40,"width":250,"height":60,"type":"text","text":"Настроить "}
+	],
+	"edges":[
+		{"id":"c937f93a61772365","fromNode":"638227d47b5c8070","fromSide":"bottom","toNode":"87f1404cc50fee52","toSide":"top"}
+	]
+}
