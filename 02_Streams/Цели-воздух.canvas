@@ -14,7 +14,9 @@
 		{"id":"810c439814190d36","x":895,"y":10,"width":250,"height":60,"type":"text","text":"Изучить правила платформы"},
 		{"id":"202b299a7f926fd5","x":-880,"y":400,"width":250,"height":60,"type":"text","text":"Полировка обс: цензура, сцены ожидания ну и тд"},
 		{"id":"3f78a802ed97c522","x":-845,"y":-240,"width":250,"height":60,"type":"text","text":"Оформить каналы: тик ток, твич, ютуб"},
-		{"id":"ea732ef55e98fa0b","x":560,"y":640,"width":250,"height":60,"type":"text","text":""}
+		{"id":"ea732ef55e98fa0b","x":715,"y":620,"width":250,"height":60,"color":"1","type":"text","text":"Высокий приоритет"},
+		{"id":"a09df54705f41902","x":715,"y":700,"width":250,"height":60,"color":"2","type":"text","text":"Средний приоритет"},
+		{"id":"84f7df6e97d75d34","x":715,"y":780,"width":250,"height":60,"color":"5","type":"text","text":"Низкий приоритет"}
 	],
 	"edges":[
 		{"id":"e426cd093d31643f","fromNode":"c3dae82d8527adf8","fromSide":"bottom","toNode":"249bdaec7c330753","toSide":"top"},
