@@ -11,7 +11,8 @@
 		{"id":"9f88ab44386ff65f","x":-272,"y":280,"width":265,"height":120,"type":"text","text":"Изучить твич трекер: топовые категории, топовые стримеры, топовые клипы"},
 		{"id":"202b299a7f926fd5","x":-660,"y":540,"width":250,"height":60,"type":"text","text":""},
 		{"id":"4714f58ea7f0d804","x":-1260,"y":100,"width":120,"height":50,"type":"text","text":"Донаты"},
-		{"id":"f9af62ad4c014b67","x":-1200,"y":260,"width":250,"height":120,"type":"text","text":"Составить плейлист с музыкой на стрим: Музыка на начало стрима, музыка на фон"}
+		{"id":"f9af62ad4c014b67","x":-1200,"y":260,"width":250,"height":120,"type":"text","text":"Составить плейлист с музыкой на стрим: Музыка на начало стрима, музыка на фон"},
+		{"id":"810c439814190d36","x":895,"y":10,"width":250,"height":60,"type":"text","text":"Изучить правила платформы"}
 	],
 	"edges":[
 		{"id":"c937f93a61772365","fromNode":"638227d47b5c8070","fromSide":"bottom","toNode":"87f1404cc50fee52","toSide":"top"},
@@ -23,6 +24,7 @@
 		{"id":"dc00546c7f5c68e7","fromNode":"624c8cb11f26beb0","fromSide":"bottom","toNode":"e6f6b9f9be9a8dca","toSide":"top"},
 		{"id":"ef6df7baf42853b6","fromNode":"624c8cb11f26beb0","fromSide":"bottom","toNode":"9f88ab44386ff65f","toSide":"top"},
 		{"id":"be2070b96bc0813d","fromNode":"87f1404cc50fee52","fromSide":"bottom","toNode":"4714f58ea7f0d804","toSide":"top"},
-		{"id":"94eac7610a42e997","fromNode":"87f1404cc50fee52","fromSide":"bottom","toNode":"f9af62ad4c014b67","toSide":"top"}
+		{"id":"94eac7610a42e997","fromNode":"87f1404cc50fee52","fromSide":"bottom","toNode":"f9af62ad4c014b67","toSide":"top"},
+		{"id":"fdaecd2e069986ad","fromNode":"638227d47b5c8070","fromSide":"bottom","toNode":"810c439814190d36","toSide":"top"}
 	]
 }
