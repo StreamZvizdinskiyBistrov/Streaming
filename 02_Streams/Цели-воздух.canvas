@@ -12,10 +12,10 @@
 		{"id":"4714f58ea7f0d804","x":-1260,"y":100,"width":120,"height":50,"type":"text","text":"Донаты"},
 		{"id":"f9af62ad4c014b67","x":-1200,"y":260,"width":250,"height":120,"type":"text","text":"Составить плейлист с музыкой на стрим: Музыка на начало стрима, музыка на фон"},
 		{"id":"810c439814190d36","x":895,"y":10,"width":250,"height":60,"type":"text","text":"Изучить правила платформы"},
-		{"id":"202b299a7f926fd5","x":-880,"y":400,"width":250,"height":60,"type":"text","text":"Полировка обс: цензура, сцены ожидания ну и тд"}
+		{"id":"202b299a7f926fd5","x":-880,"y":400,"width":250,"height":60,"type":"text","text":"Полировка обс: цензура, сцены ожидания ну и тд"},
+		{"id":"3f78a802ed97c522","x":-660,"y":-270,"width":250,"height":60,"type":"text","text":"Оформить канал"}
 	],
 	"edges":[
-		{"id":"c937f93a61772365","fromNode":"638227d47b5c8070","fromSide":"bottom","toNode":"87f1404cc50fee52","toSide":"top"},
 		{"id":"e426cd093d31643f","fromNode":"c3dae82d8527adf8","fromSide":"bottom","toNode":"249bdaec7c330753","toSide":"top"},
 		{"id":"c0ff933fbdfeefcc","fromNode":"c3dae82d8527adf8","fromSide":"bottom","toNode":"dc33d29783bda1e0","toSide":"top"},
 		{"id":"736a348ccd0d0e48","fromNode":"c3dae82d8527adf8","fromSide":"bottom","toNode":"5fec2f08c6ac2467","toSide":"top"},
@@ -26,6 +26,8 @@
 		{"id":"be2070b96bc0813d","fromNode":"87f1404cc50fee52","fromSide":"bottom","toNode":"4714f58ea7f0d804","toSide":"top"},
 		{"id":"94eac7610a42e997","fromNode":"87f1404cc50fee52","fromSide":"bottom","toNode":"f9af62ad4c014b67","toSide":"top"},
 		{"id":"fdaecd2e069986ad","fromNode":"638227d47b5c8070","fromSide":"bottom","toNode":"810c439814190d36","toSide":"top"},
-		{"id":"ac372f2acd406046","fromNode":"87f1404cc50fee52","fromSide":"bottom","toNode":"202b299a7f926fd5","toSide":"top"}
+		{"id":"ac372f2acd406046","fromNode":"87f1404cc50fee52","fromSide":"bottom","toNode":"202b299a7f926fd5","toSide":"top"},
+		{"id":"b89a1e2c7db7ebbf","fromNode":"638227d47b5c8070","fromSide":"bottom","toNode":"87f1404cc50fee52","toSide":"top"},
+		{"id":"7bdcba1db1ee2835","fromNode":"638227d47b5c8070","fromSide":"bottom","toNode":"3f78a802ed97c522","toSide":"top"}
 	]
 }
