@@ -1,12 +1,14 @@
 {
 	"nodes":[
+		{"id":"dc33d29783bda1e0","x":-125,"y":-30,"width":250,"height":60,"type":"text","text":""},
 		{"id":"638227d47b5c8070","x":-160,"y":-240,"width":260,"height":80,"type":"text","text":"Прийти к 20 онлайна"},
 		{"id":"87f1404cc50fee52","x":-500,"y":40,"width":250,"height":60,"type":"text","text":"Настроить обс"},
 		{"id":"624c8cb11f26beb0","x":-150,"y":40,"width":250,"height":60,"type":"text","text":"Проанализировать рынок"},
-		{"id":"c3dae82d8527adf8","x":180,"y":40,"width":250,"height":60,"type":"text","text":"Поддерживать постоянство"},
-		{"id":"249bdaec7c330753","x":140,"y":240,"width":250,"height":60,"type":"text","text":""}
+		{"id":"c3dae82d8527adf8","x":180,"y":40,"width":250,"height":60,"type":"text","text":"Поддерживать постоянство до конца лета"},
+		{"id":"249bdaec7c330753","x":55,"y":260,"width":250,"height":60,"type":"text","text":"Вести тик ток"}
 	],
 	"edges":[
-		{"id":"c937f93a61772365","fromNode":"638227d47b5c8070","fromSide":"bottom","toNode":"87f1404cc50fee52","toSide":"top"}
+		{"id":"c937f93a61772365","fromNode":"638227d47b5c8070","fromSide":"bottom","toNode":"87f1404cc50fee52","toSide":"top"},
+		{"id":"e426cd093d31643f","fromNode":"c3dae82d8527adf8","fromSide":"bottom","toNode":"249bdaec7c330753","toSide":"top"}
 	]
 }
