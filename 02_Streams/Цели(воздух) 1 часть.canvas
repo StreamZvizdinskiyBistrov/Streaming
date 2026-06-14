@@ -1,0 +1,36 @@
+{
+	"nodes":[
+		{"id":"624c8cb11f26beb0","type":"text","text":"Проанализировать рынок","x":-155,"y":40,"width":250,"height":60,"color":"1"},
+		{"id":"87f1404cc50fee52","type":"text","text":"Настроить обс","x":-720,"y":40,"width":250,"height":60,"color":"1"},
+		{"id":"c3dae82d8527adf8","type":"text","text":"Поддерживать постоянство до конца лета","x":320,"y":10,"width":250,"height":60,"color":"1"},
+		{"id":"dc33d29783bda1e0","type":"text","text":"Вести ютуб(нарезки)","x":505,"y":280,"width":200,"height":60,"color":"1"},
+		{"id":"e6f6b9f9be9a8dca","type":"text","text":"Изучить тренды по тегам со стримами, стримерами в тик токе, шортсе, рилсе","x":-560,"y":280,"width":250,"height":100,"color":"1"},
+		{"id":"9f88ab44386ff65f","type":"text","text":"Изучить твич трекер: топовые категории, топовые стримеры, топовые клипы","x":-272,"y":280,"width":265,"height":120,"color":"2"},
+		{"id":"4714f58ea7f0d804","type":"text","text":"Донаты","x":-1260,"y":100,"width":120,"height":50,"color":"2"},
+		{"id":"f9af62ad4c014b67","type":"text","text":"Составить плейлист с музыкой на стрим: Музыка на начало стрима, музыка на фон","x":-1200,"y":260,"width":250,"height":120,"color":"5"},
+		{"id":"810c439814190d36","type":"text","text":"Изучить правила платформы","x":895,"y":10,"width":250,"height":60,"color":"2"},
+		{"id":"202b299a7f926fd5","type":"text","text":"Полировка обс: цензура, сцены ожидания ну и тд","x":-880,"y":400,"width":250,"height":60,"color":"5"},
+		{"id":"ea732ef55e98fa0b","type":"text","text":"Высокий приоритет","x":715,"y":620,"width":250,"height":60,"color":"1"},
+		{"id":"a09df54705f41902","type":"text","text":"Средний приоритет","x":715,"y":700,"width":250,"height":60,"color":"2"},
+		{"id":"84f7df6e97d75d34","type":"text","text":"Низкий приоритет","x":715,"y":780,"width":250,"height":60,"color":"5"},
+		{"id":"3f78a802ed97c522","type":"text","text":"Оформить каналы: тик ток, твич, ютуб","x":-940,"y":-210,"width":250,"height":60,"color":"1"},
+		{"id":"638227d47b5c8070","type":"text","text":"Прийти к 20 онлайна","x":-125,"y":-380,"width":220,"height":60},
+		{"id":"5fec2f08c6ac2467","type":"text","text":"Вести стримы","x":770,"y":280,"width":140,"height":60,"color":"5"},
+		{"id":"249bdaec7c330753","type":"text","text":"Вести тик ток","x":248,"y":280,"width":145,"height":60,"color":"1"}
+	],
+	"edges":[
+		{"id":"e426cd093d31643f","fromNode":"c3dae82d8527adf8","fromSide":"bottom","toNode":"249bdaec7c330753","toSide":"top"},
+		{"id":"c0ff933fbdfeefcc","fromNode":"c3dae82d8527adf8","fromSide":"bottom","toNode":"dc33d29783bda1e0","toSide":"top"},
+		{"id":"736a348ccd0d0e48","fromNode":"c3dae82d8527adf8","fromSide":"bottom","toNode":"5fec2f08c6ac2467","toSide":"top"},
+		{"id":"48d93f2dab5dd22b","fromNode":"638227d47b5c8070","fromSide":"bottom","toNode":"624c8cb11f26beb0","toSide":"top"},
+		{"id":"fac286ea32dd13c1","fromNode":"638227d47b5c8070","fromSide":"bottom","toNode":"c3dae82d8527adf8","toSide":"top"},
+		{"id":"dc00546c7f5c68e7","fromNode":"624c8cb11f26beb0","fromSide":"bottom","toNode":"e6f6b9f9be9a8dca","toSide":"top"},
+		{"id":"ef6df7baf42853b6","fromNode":"624c8cb11f26beb0","fromSide":"bottom","toNode":"9f88ab44386ff65f","toSide":"top"},
+		{"id":"be2070b96bc0813d","fromNode":"87f1404cc50fee52","fromSide":"bottom","toNode":"4714f58ea7f0d804","toSide":"top"},
+		{"id":"94eac7610a42e997","fromNode":"87f1404cc50fee52","fromSide":"bottom","toNode":"f9af62ad4c014b67","toSide":"top"},
+		{"id":"fdaecd2e069986ad","fromNode":"638227d47b5c8070","fromSide":"bottom","toNode":"810c439814190d36","toSide":"top"},
+		{"id":"ac372f2acd406046","fromNode":"87f1404cc50fee52","fromSide":"bottom","toNode":"202b299a7f926fd5","toSide":"top"},
+		{"id":"b89a1e2c7db7ebbf","fromNode":"638227d47b5c8070","fromSide":"bottom","toNode":"87f1404cc50fee52","toSide":"top"},
+		{"id":"7bdcba1db1ee2835","fromNode":"638227d47b5c8070","fromSide":"bottom","toNode":"3f78a802ed97c522","toSide":"top"}
+	]
+}
