@@ -1,13 +1,14 @@
 {
 	"nodes":[
-		{"id":"87f1404cc50fee52","x":-500,"y":40,"width":250,"height":60,"type":"text","text":"Настроить обс"},
 		{"id":"c3dae82d8527adf8","x":180,"y":40,"width":250,"height":60,"type":"text","text":"Поддерживать постоянство до конца лета"},
 		{"id":"dc33d29783bda1e0","x":280,"y":260,"width":200,"height":60,"type":"text","text":"Вести ютуб(нарезки)"},
 		{"id":"5fec2f08c6ac2467","x":600,"y":260,"width":140,"height":60,"type":"text","text":"Вести стримы"},
 		{"id":"624c8cb11f26beb0","x":-155,"y":40,"width":250,"height":60,"type":"text","text":"Проанализировать рынок"},
 		{"id":"249bdaec7c330753","x":95,"y":260,"width":145,"height":60,"type":"text","text":"Вести тик ток"},
 		{"id":"638227d47b5c8070","x":-140,"y":-240,"width":220,"height":60,"type":"text","text":"Прийти к 20 онлайна"},
-		{"id":"e6f6b9f9be9a8dca","x":-250,"y":260,"width":250,"height":60,"type":"text","text":"Изучить тренды по тегам со стримами"}
+		{"id":"e6f6b9f9be9a8dca","x":-375,"y":260,"width":250,"height":100,"type":"text","text":"Изучить тренды по тегам со стримами, стримерами в тик токе, шортсе, рилсе"},
+		{"id":"87f1404cc50fee52","x":-720,"y":40,"width":250,"height":60,"type":"text","text":"Настроить обс"},
+		{"id":"9f88ab44386ff65f","x":-170,"y":420,"width":250,"height":60,"type":"text","text":"Изучить твич трекер: топовые категории"}
 	],
 	"edges":[
 		{"id":"c937f93a61772365","fromNode":"638227d47b5c8070","fromSide":"bottom","toNode":"87f1404cc50fee52","toSide":"top"},
